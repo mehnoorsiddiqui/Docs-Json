@@ -5,15 +5,6 @@
             "Title": "API Reference",
             "Nodes": [
                 {
-                    "Title": "List of APIs",
-                    "Nodes": [
-                        {
-                            "Text": "* [Pet]($e/pet)\n* [Store]($e/store)\n* [User]($e/user)",
-                            "Type": "paragraph"
-                        }
-                    ]
-                },
-                {
                     "Title": "Pet",
                     "Nodes": [
                         {
@@ -1449,26 +1440,6 @@
                 {
                     "Title": "Store",
                     "Nodes": [
-                        {
-                            "Title": "Overview",
-                            "Nodes": [
-                                {
-                                    "Text": "Access to Petstore orders",
-                                    "Type": "paragraph"
-                                },
-                                {
-                                    "Text": "Find out more about our store: [http://swagger.io](http://swagger.io)",
-                                    "Type": "paragraph"
-                                }
-                            ],
-                            "PlaceholderId": "null",
-                            "SuggestedLinkText": "Overview",
-                            "SuggestedLink": "$h/__api_reference/store/Overview",
-                            "SuggestedLinkLevel": "3",
-                            "LinkLabel": "endpoint-group-overview",
-                            "HideFromNavigation": "false",
-                            "Type": "section"
-                        },
                         {
                             "Title": "Get Inventory",
                             "Nodes": [
